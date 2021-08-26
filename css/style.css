@@ -6,6 +6,11 @@ body {
     margin: 72px 0;
 }
 
+header{
+    text-align: center;
+    
+}
+
 
 .page-title {
     color: rgb(236, 54, 78);
@@ -32,7 +37,7 @@ body {
     height: fit-content;
     margin-top: 24px;
     padding: 32px 12px;
-    transition: 0.5s ease-in-out;
+    transition: 0.3s ease-in-out;
     cursor: pointer;
 }
 
